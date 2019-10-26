@@ -1,0 +1,47 @@
+.bttn1
+{
+    background: #aefc87;
+    color: black;
+}
+
+.bttn2
+{
+    background: #ff4c63;
+    color: black;
+}
+.head
+{
+    list-style-type: decimal;
+}
+.body
+{
+    background-image: url(png/1920-0001.jpg);
+    background-size: 100%;
+    color: white;
+}
+
+.header
+{
+    background: #3880ff;
+    background-size: 100%;
+    padding: 5px;
+    margin: -10px;
+}
+.input
+{
+    border-color: black;
+    background: #3c84e3;
+    width: 15px;
+    color: #55e3fc;
+}
+.input1
+{
+    border-color: #3c84e3;
+    background: #3c84e3;
+    width: 130px;
+    color: #55e3fc;
+}
+.section
+{
+    display: flex;
+}
